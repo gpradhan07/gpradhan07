@@ -1,4 +1,4 @@
-### 👦About Me
+## 👦About Me
 
 Hello there! It gives me great pleasure to present myself as Gourav Kumar Pradhan, a software developer and student. My passions include coding and developing new solutions to make people's life simpler.
 
@@ -12,3 +12,4 @@ My areas of expertise include [programming languages (JAVA, C, Python), framewor
 When I'm not coding, I like [hobbies (Internet Surfing, Gaming) or interests (reading and watching Indian Mythology)]. I feel that having a well-rounded life is crucial for a successful developer, and I always find time for the activities I like doing outside of work.
 
 Thank you for taking the time to learn more about me. I'm looking forward to seeing what the future holds and continuing to have a great influence on the world through software development!   
+
