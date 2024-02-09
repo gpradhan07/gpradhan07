@@ -14,8 +14,7 @@ Here are some of the skills and tools in my data scientist toolkit:
 - 🐍 **Python**: Python is my go-to language for data manipulation, analysis, and model development.
 - 📦 **Libraries**: I am proficient in libraries such as TensorFlow, PyTorch, Keras, and scikit-learn.
 - 📈 **Data Visualization**: I use tools like Matplotlib and Seaborn to create meaningful visualizations.
-- 📊 **SQL**: Proficient in SQL for database querying and manipulation.
-- 🧮 **Data Wrangling**: Skilled in data cleaning, transformation, and feature engineering.
+
 
 ## Let's Connect
 
