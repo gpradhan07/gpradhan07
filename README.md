@@ -20,5 +20,5 @@ Here are some of the skills and tools in my data scientist toolkit:
 
 Open to collaboration and eager to learn from fellow data science enthusiasts. Let's dive into the fascinating world of data together! 🤓📊🤖
 
-LinkedIn: Gourav's LinkedIn Profile
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/gourav07/) 
 
